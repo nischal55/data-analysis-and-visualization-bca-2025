@@ -185,3 +185,5 @@ cython_debug/
 /assignments/answers
 notes.txt
 *.html
+!assignments/ray-march-example.png
+!*/**/lab-16-software-tools/**/*.png
